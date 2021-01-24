@@ -4,7 +4,7 @@ onEvent('recipes', event => {
 		'GBG',
 		'GGG'
 	], {
-		G: 'minecraft:gold_nugget'
+		G: 'minecraft:gold_nugget',
 		B: 'minecraft:blackstone'
 	})
 })
