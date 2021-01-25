@@ -33,7 +33,7 @@ onEvent('recipes', event => {
 	addRecipe('minecraft:smooth_stone_slab', 'minecraft:smooth_stone')
 	addRecipe('minecraft:cobblestone_slab', 'minecraft:cobblestone')
 	addRecipe('minecraft:mossy_cobblestone_slab', 'minecraft:mossy_cobblestone')
-	addRecipe('minecraft:mossy_stone_bricks_slab', 'minecraft:mossy_stone_bricks')
+	addRecipe('minecraft:mossy_stone_brick_slab', 'minecraft:mossy_stone_bricks')
 	
 	// Sandstone
 	addRecipe('minecraft:cut_sandstone_slab', 'minecraft:cut_sandstone')
