@@ -26,7 +26,8 @@ onEvent('recipes', event => {
 	addRecipe('minecraft:warped_slab', 'minecraft:warped_planks')
 	
 	// Modded
-	addRecipe('traverse:fir_slab', 'traverse:fir_planks')
+	// addRecipe('traverse:fir_slab', 'traverse:fir_planks')
+	event.remove({id: 'traverse:fir_slab'})
 	
 	// Stone
 	addRecipe('minecraft:stone_slab', 'minecraft:stone')
